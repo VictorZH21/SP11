@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\SP11\SP11\bin\Debug\SP11.exe.config
+C:\Users\CoFFey\source\repos\SP11\SP11\bin\Debug\SP11.exe
+C:\Users\CoFFey\source\repos\SP11\SP11\bin\Debug\SP11.pdb
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.Form1.resources
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.exe
+C:\Users\CoFFey\source\repos\SP11\SP11\obj\Debug\SP11.pdb
